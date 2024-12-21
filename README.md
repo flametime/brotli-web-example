@@ -2,6 +2,11 @@
 
 This guide demonstrates how to modify `.html` and `.js` files after exporting a Godot game to enable Brotli-Wasm decompression for game files.
 
+## UPDATE:
+These instructions are only for the non-auto Brotli decompression example.
+
+If you want to try browser-based auto-decompression (where the browser handles decompression automatically), simply upload the `.br` files to your platform, and the user's browser will handle the rest. For this exmaple, check the **auto_browser_decompress_example** folder.
+
 ---
 
 ## Quick Start
